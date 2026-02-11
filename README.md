@@ -139,7 +139,7 @@ The Banking Analytics Dashboard showcases how modern BI tools can transform raw 
 ---
 
 ## 👤 Author
-**Aryan Saxena**  
+**Pujit Swikrit**  
 _Data Analytics | Business Intelligence | Risk Analytics_
 
 ---
